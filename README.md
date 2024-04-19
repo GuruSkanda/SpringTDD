@@ -19,4 +19,4 @@ The green phase is where you implement code to make your test pass. The goal is 
 ### Refactor
 In the refactor phase, you are still “in the green.” You can begin thinking about how to implement your code better or more efficiently.
 
-![0_0JHElimbtRqPc8SA.png](..%2F..%2FDownloads%2F0_0JHElimbtRqPc8SA.png)
+![0_0JHElimbtRqPc8SA](https://github.com/LoopyTechGuru/SpringTDD/assets/20556567/15cb36b7-d7fa-4025-8941-bd2a767850ce)
